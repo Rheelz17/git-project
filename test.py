@@ -1,0 +1,1 @@
+a = ["kambing", "sapi", "ayam"]
